@@ -1,0 +1,1 @@
+a. Dodaj do folderu plik tekstowy z dowolnym tekstem wewnatrz.
